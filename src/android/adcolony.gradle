@@ -6,7 +6,7 @@ repositories {
 }
 
 dependencies {  
-  implementation 'com.adcolony:sdk:4.1.0'
-  implementation 'com.google.android.gms:play-services-ads:10.0.1'
-  implementation 'com.android.support:support-annotations:28.0.0'
+  implementation 'com.adcolony:sdk:+'
+  implementation 'com.google.android.gms:play-services-ads:+'
+  implementation 'com.android.support:support-annotations:+'
 }
